@@ -1,0 +1,8 @@
+﻿Django==4.1.1
+Pillow>=10.0.0
+django-tables2==2.4.1
+django-crispy-forms==1.14.0
+python-dotenv
+dj-database-url==1.2.0
+psycopg2-binary==2.9.5
+gunicorn==20.1.0
